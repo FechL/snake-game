@@ -1,6 +1,6 @@
 # snake-game
 
-Snake game sederhana. game-over ketika kepala menabrak buntut.
+Snake game sederhana.
 
 ## Installation
 
@@ -17,9 +17,12 @@ git clone https://github.com/FechL/snake-game.git
 * [download](https://github.com/FechL/snake-game/archive/refs/heads/master.zip) zip ini
 * lalu ekstak zipnya
 
-## Usage
+## How to play
 
 - buka bin/App.exe
+- control dengan WASD
+- makan F (fruit) akan memanjangkan buntut dan menambah score
+- game-over ketika kepala menabrak buntut
 
 ## Control
 
